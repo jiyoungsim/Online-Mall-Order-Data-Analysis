@@ -3,6 +3,7 @@
 + Preprocessed and analyzed revenue and customer data in Python in order to find insights such as revenue by different regions and time frames, top-selling items, customer loyalty, and customer retention.
 + Interpreted when maximum number of orders were placed by each customer to decide when to send personalized notifications.
 + Analyzed and visualized web server log data to see where customers are lost and what may be possible reasons for losses.
++ Images of interactive plots have been added to the notebooks for easier display. Download and run the code to see full interactive features of the plots.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
