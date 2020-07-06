@@ -1,4 +1,4 @@
-# Online-Mall-Order-Data-Analysis
+# Online Mall Order Data Analysis
 
 + This project was conducted by Young Sim
 
