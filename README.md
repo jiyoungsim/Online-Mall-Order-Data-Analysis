@@ -6,7 +6,7 @@
 
 + **Objectives**: The goal of this project is to find insights from online mall order data to identify possible areas of improvements in terms of sales and make decisions.
 
-+ **Summary**: This project analyzes online mall order data with the goal of finding insights to help maximize sales and revenues. See project notebook for more details.
++ **Summary**: This project analyzes online mall order data with the goal of finding insights to help maximize sales and revenues. See project notebooks for more details.
   + Revenue data
   
   First, I looked into revenue data to see revenue by different regions and time frames.
