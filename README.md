@@ -2,9 +2,11 @@
 
 + This project was conducted by Young Sim
 
++ **Keywords: Data Analysis, Data Visualization, Bar Charts, Heatmaps, Funnel Charts, Python**
+
 + **Objectives**: The goal of this project is to find insights from online mall order data to identify possible areas of improvements in terms of sales and make decisions.
 
-+ **Summary**: This project analyzes online mall order data with the goal of finding insights to help maximize sales and revenues. 
++ **Summary**: This project analyzes online mall order data with the goal of finding insights to help maximize sales and revenues. See project notebook for more details.
   + Revenue data
   
   First, I looked into revenue data to see revenue by different regions and time frames.
@@ -60,8 +62,6 @@
   + Preprocessed and analyzed revenue and customer data in Python in order to find insights such as revenue by different regions and time frames, top-selling items, customer loyalty, and customer retention.
   + Interpreted when maximum number of orders were placed by each customer to decide when to send personalized notifications.
   + Analyzed and visualized web server log data to see where customers are lost and what may be possible reasons for losses.
-
-+ **Keywords: Data Analysis, Data Visualization, Bar Charts, Heatmaps, Funnel Charts, Python**
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
